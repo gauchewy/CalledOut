@@ -14,7 +14,13 @@
     "background": {
         "service_worker": "background.js"
     }, 
-    "permissions": ["audio", "alarms", "privacy","tabCapture"], 
+    "permissions": [ "alarms",
+                    "privacy",
+                    "tabs",
+                    "tabCapture", 
+                    "downloads", 
+                    "storage"
+                ], 
     "icons": {
         "16": "/images/icons/16icon.png",
         "48": "/images/icons/48icon.png", 
