@@ -1,0 +1,23 @@
+{
+    "name": "CalledOut",
+    "description": "alerts you when you get called out in a virtual meeting",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/icons/16icon.png",
+            "48": "/images/icons/48icon.png", 
+            "128": "/images/icons/128icon.png"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    }, 
+    "permissions": ["audio", "alarms", "privacy","tabCapture"], 
+    "icons": {
+        "16": "/images/icons/16icon.png",
+        "48": "/images/icons/48icon.png", 
+        "128": "/images/icons/128icon.png"
+    }
+  }
