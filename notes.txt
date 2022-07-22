@@ -1,0 +1,15 @@
+https://medium.com/@berraknil/building-a-chrome-extension-tips-and-tricks-ba95aa664ebe
+
+
+https://developer.chrome.com/docs/extensions/reference/tabCapture/#method-getCapturedTabs
+
+https://webrtc.ventures/2020/04/chrome-extension-live-capture-your-screen/
+
+
+https://github.com/arblast/Chrome-Audio-Capturer
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder
+
+
+https://medium.com/@bryanjenningz/how-to-record-and-play-audio-in-javascript-faa1b2b3e49b
